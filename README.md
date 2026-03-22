@@ -95,7 +95,7 @@ Task Tracking • SLA Handling • Documentation • Scheduling • Coordination
 ---
 
 
-## 📄 Research Publications  
+##  Research Publications  
 
 • **An Artificial Intelligence-based Sign Language Recognition using Attention-Enhanced Long Short-Term Memory Networks**  
   Published in *3rd International Conference on Advancement in Computation & Computer Technologies (InCACCT 2025)*  
