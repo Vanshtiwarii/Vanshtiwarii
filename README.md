@@ -23,13 +23,15 @@
 <!-- 🔥 BADGES -->
 ## 🛠️ Skills  
 
-| 📌 Execution & PM | 📊 Tools | 📈 Data/Tech | 💻 Technical |
-|------------------|----------|-------------|--------------|
-| • Task Tracking | • ServiceNow | • Python | • C / C++ |
-| • SLA Handling | • Power BI | • SQL | • Dart |
-| • Documentation | • Excel | • Data Analysis | • Flutter |
-| • Scheduling | • Jupyter | • Power BI | • Manual Testing |
-| • Coordination | • Flutter |  |  |
+
+| 📌 Execution & PM | 📊 Tools | 💻 Technical | 📈 Data & Analytics |
+|------------------|----------|--------------|--------------------|
+| • Task Tracking    | • ServiceNow     | • C / C++     | • Python    |
+| • SLA Handling    | • Power BI     | • SQL    | • Excel    |
+| • Documentation    | • Excel     | • Flutter    | • Data Analysis and cleaning   |
+| • Scheduling    | • Jupyter     | • Manual Testing    | • Power BI    |
+| • Coordination    | • Flutter     | • DNN(basics)    |  • SQL   |
+
 ---
 
 ## Achievements
