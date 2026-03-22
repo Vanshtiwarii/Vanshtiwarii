@@ -1,14 +1,11 @@
 <!-- 🔥 PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Vansh%20Tiwari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0fdf4,100:bbf7d0&height=180&section=header&text=Vansh%20Tiwari&fontSize=40&fontColor=14532d&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Project-Oriented+Tech+Professional;Execution+%7C+SLA+%7C+Coordination;From+Tasks+to+Leadership;Future+Project+Manager" />
-</p>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Vanshtiwarii&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 
@@ -16,6 +13,9 @@
 
 <p align="center">
   I don’t just complete tasks - I ensure they are tracked, executed, and delivered.
+</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Vanshtiwarii&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 </p>
 
-## 🧠 About Me  
+##  About Me  
 
 <p>
 💼 Currently working at <b>HCLTech</b> in Wintel Support<br>
@@ -40,7 +40,7 @@
 🤝 Exposure to <b>project coordination & stakeholder communication</b>
 </p>
 
-## 💼 Experience  
+##  Experience  
 
 🔹 **HCLTech — Wintel Support Engineer**  
 → Production monitoring, incident resolution, SLA adherence  
@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 
 🔸 **Fruit Classifier (CNN Model)**  
 → End-to-end lifecycle execution  
@@ -68,58 +68,63 @@
 
 ---
 
-## 🛠️ Skills  
+##  Skills  
 
 <p align="center">
 
-📌 <b>Execution & PM</b><br>
-Task Tracking • SLA Handling • Documentation • Scheduling • Coordination  
+
 
 💻 <b>Technical</b><br>
-Python • SQL • C • Dart • Flutter • ML Basics  
+Python • SQL • C • Dart • Flutter • ML Basics • C++ • DSA • DNN(Basics)
 
 📊 <b>Tools</b><br>
 ServiceNow • Power BI • Excel • Jupyter  
 
+📌 <b>Execution & PM</b><br>
+Task Tracking • SLA Handling • Documentation • Scheduling • Coordination  
+
 </p>
 
 ---
 
-## 🏆 Achievements  
+## Achievements & Publications  
 
 🏆 Winner — Lens Xplore Hackathon  
 🥇 Top 5 — Cyber Cup Codefest  
-📄 IEEE Research Publications  
 
 ---
 
-## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshtiwarii&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshtiwarii&theme=tokyonight&hide_border=true" height="150"/>
+## 📄 Research Publications  
+
+• **An Artificial Intelligence-based Sign Language Recognition using Attention-Enhanced Long Short-Term Memory Networks**  
+  Published in *3rd International Conference on Advancement in Computation & Computer Technologies (InCACCT 2025)*  
+  → Worked on AI-based sign language recognition using attention-enhanced LSTM models for improved sequence learning  
+
+---
+
+• **AI-Powered Retrieval-Augmented Generation Framework with Large Language Models for Enhanced Public Health Response**  
+  Published in *InCACCT 2025 (IEEE)*  
+  → Contributed to building a framework combining RAG + LLMs for better information retrieval and decision support in public health  
+
+---
+
+• **SignSpeakNet: Spatio-Temporal Sign Language Recognition using Multi-Head Attention-Guided BiLSTM Network**  
+  Presented at *ICCCNT 2025, IIT Indore*  
+  → Designed a deep learning model integrating attention mechanisms with BiLSTM for improved gesture recognition accuracy  
+  
+---
+
+
+## CONTACT  
+
+<p>
+  
+  💼 Linkedin :  <a href="https://www.linkedin.com/in/vansh-tiwari005">vansh-tiwari005</a><br>
+  📧 Email : vanshh.tiwari2005@gmail.com 
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vanshtiwarii&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🤝 Connect With Me  
-
-<p align="center">
-  📧 vanshh.tiwari2005@gmail.com <br>
-  💼 <a href="https://www.linkedin.com/in/vansh-tiwari005">LinkedIn</a>
-</p>
-
----
-
-## ⚡ Personal Brand  
-
 <p align="center">
   <b>Execute. Track. Deliver. Improve.</b><br><br>
   <i>Not just working on tasks — building systems that work.</i><br>
@@ -128,7 +133,4 @@ ServiceNow • Power BI • Excel • Jupyter
 
 ---
 
-<!-- 🔥 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+
