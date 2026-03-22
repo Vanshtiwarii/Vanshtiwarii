@@ -1,6 +1,6 @@
 <!-- 🔥 PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fefce8,100:fde68a&height=180&section=header&text=Vansh%20Tiwari&fontSize=40&fontColor=713f12&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,100:7dd3fc&height=180&section=header&text=Vansh%20Tiwari&fontSize=40&fontColor=082f49&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 🔥 TYPING ANIMATION -->
