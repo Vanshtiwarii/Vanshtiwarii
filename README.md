@@ -34,13 +34,6 @@
 
 ---
 
-## Achievements
-
-🏆 Winner — Lens Xplore Hackathon  
-🥇 Top 5 — Cyber Cup Codefest  
-
----
-
 
 ## Research Publications  
 
