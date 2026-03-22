@@ -20,6 +20,23 @@
 
 ---
 
+## 💼 Experience  
+
+🔹 **HCLTech — Wintel Support Engineer**  
+→ Production monitoring, incident resolution, SLA adherence  
+
+🔹 **Ministry of Electronics & IT — QA & Coordination Intern**  
+→ Milestone tracking, reporting, stakeholder coordination  
+
+🔹 **Observance Solutions — Software Intern**  
+→ AI dashboard contribution, task tracking, MIS  
+
+🔹 **Sabudh Foundation — Data Science Intern**  
+→ ML exposure & data-driven problem solving  
+
+---
+
+
 <!-- 🔥 BADGES -->
 ## 🛠️ Skills  
 
